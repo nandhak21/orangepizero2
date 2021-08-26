@@ -1,5 +1,7 @@
 # orangepizero2
 
+Just my experimentation with orangepizero2 board.
+
 ## OS Flash
 
 1. Download ubuntu/debian server image from http://www.orangepi.org/downloadresources/
