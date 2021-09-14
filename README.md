@@ -31,3 +31,13 @@ https://forums.docker.com/t/failing-to-start-dockerd-failed-to-create-nat-chain-
 `gateway 10.1.1.1`
 `dns-nameservers 1.1.1.1 8.8.8.8`
 
+## Onedrive Integration with nextcloud
+
+## Install rclone
+
+1. `apt install rclone`
+
+rclonemount.service file contains onedrive integration changes. Once done configuring place the serviec file in /etc/systemd/service. Reload and start the service.
+
+
+
