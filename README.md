@@ -35,7 +35,7 @@ https://forums.docker.com/t/failing-to-start-dockerd-failed-to-create-nat-chain-
 
 ## Install rclone
 
-1. `apt install rclone`
+`apt install rclone`
 
 rclonemount.service file contains onedrive integration changes. Once done configuring place the serviec file in /etc/systemd/service. Reload and start the service.
 
